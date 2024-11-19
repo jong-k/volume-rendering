@@ -13,6 +13,8 @@
     "@cornerstonejs/dicom-image-loader": "^2.2.7",
     "@cornerstonejs/nifti-volume-loader": "^2.2.7",
     "@cornerstonejs/tools": "^2.2.7",
+    "dicom-parser": "^1.8.21",
+    "dicomweb-client": "^0.10.4",
     "next": "15.0.3",
     "react": "19.0.0-rc-66855b96-20241106",
     "react-dom": "19.0.0-rc-66855b96-20241106"
